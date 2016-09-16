@@ -1,0 +1,5 @@
+﻿Matricula: 0, Aluno: geovan, Cursozoo
+Matricula: 0, Aluno: geovan, Cursozoo
+Matricula: 0, Aluno: geovan, Cursoadm
+Matricula: 0, Aluno: geovan, Cursocomputacao
+Matricula: 0, Aluno: geo, Cursoco
